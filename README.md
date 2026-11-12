@@ -29,12 +29,12 @@ Sau bài lab, bạn có thể:
 
 ## Chuẩn bị trước buổi
 
-- [ ] Docker đang chạy và mở được CVAT của bạn ở http://localhost:8080 (tài khoản tạo ở Ngày 2).
-- [ ] Đã chạy `python lab.py check` một lần ở nhà: lệnh tự bật CVAT, sửa các lỗi hay gặp, báo máy có đủ RAM không.
-- [ ] Máy yếu (RAM 8 GB trở xuống, hoặc CVAT chạy chậm): đọc [`docs/MAY_YEU.md`](docs/MAY_YEU.md).
-- [ ] Đã xem slide lý thuyết Ngày 4, nhất là phần 17 điểm COCO, câu hỏi trái/phải, cờ visibility và OKS.
-- [ ] Đã xem [`docs/HUONG_DAN_BANG_HINH.md`](docs/HUONG_DAN_BANG_HINH.md) (10 phút, có ảnh), rồi đọc [`docs/GUIDELINE.md`](docs/GUIDELINE.md) và [`docs/CVAT_CHEATSHEET.md`](docs/CVAT_CHEATSHEET.md).
-- [ ] Máy có Python 3.8+ (`python --version`; macOS / Ubuntu: `python3 --version`).
+- [x] Docker đang chạy và mở được CVAT của bạn ở http://localhost:8080 (tài khoản tạo ở Ngày 2).
+- [x] Đã chạy `python lab.py check` một lần ở nhà: lệnh tự bật CVAT, sửa các lỗi hay gặp, báo máy có đủ RAM không.
+- [x] Máy yếu (RAM 8 GB trở xuống, hoặc CVAT chạy chậm): đọc [`docs/MAY_YEU.md`](docs/MAY_YEU.md).
+- [x] Đã xem slide lý thuyết Ngày 4, nhất là phần 17 điểm COCO, câu hỏi trái/phải, cờ visibility và OKS.
+- [x] Đã xem [`docs/HUONG_DAN_BANG_HINH.md`](docs/HUONG_DAN_BANG_HINH.md) (10 phút, có ảnh), rồi đọc [`docs/GUIDELINE.md`](docs/GUIDELINE.md) và [`docs/CVAT_CHEATSHEET.md`](docs/CVAT_CHEATSHEET.md).
+- [x] Máy có Python 3.8+ (`python --version`; macOS / Ubuntu: `python3 --version`).
 
 ## Cách bắt đầu
 

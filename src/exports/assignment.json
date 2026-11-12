@@ -1,0 +1,43 @@
+{
+ "mssv": "2A202603154",
+ "ten": "HaTienTrinh",
+ "pool_version": "d04-k5-v2",
+ "cvat_user": "HATIENTRINH",
+ "project": "d04-keypoint",
+ "persons": [
+  "000000184224.jpg",
+  "000000349521.jpg",
+  "000000399983.jpg",
+  "000000433787.jpg",
+  "000000445187.jpg",
+  "000000188804.jpg",
+  "000000516902.jpg",
+  "000000521817.jpg",
+  "000000480582.jpg",
+  "000000515309.jpg",
+  "000000253584.jpg",
+  "000000130816.jpg"
+ ],
+ "faces": [
+  "face_122747.jpg",
+  "face_261458.jpg",
+  "face_425647.jpg",
+  "face_145621.jpg",
+  "face_356144.jpg",
+  "face_249336.jpg",
+  "face_13874.jpg",
+  "face_333134.jpg"
+ ],
+ "tasks": {
+  "persons": {
+   "task_id": 12,
+   "job_id": 12,
+   "task_name": "persons-HaTienTrinh"
+  },
+  "faces": {
+   "task_id": 13,
+   "job_id": 13,
+   "task_name": "faces-HaTienTrinh"
+  }
+ }
+}
